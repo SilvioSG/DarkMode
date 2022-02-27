@@ -1,2 +1,2 @@
 # DarkMode
- DarkMode Rocketseat
+ Desafio DarkMode do Discover da Rocketseat
